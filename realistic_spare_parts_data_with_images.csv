@@ -1,0 +1,1001 @@
+id,name,partNumber,price,origin,brand,image
+1,Valve,OMR-8341,$1106,Germany,Omron,valve.jpg
+2,Valve,BOS-9791,$1333,China,Bosch,valve.jpg
+3,HMI Display,FES-7739,$637,Italy,Festo,hmi_display.jpg
+4,Valve,FES-4188,$96,USA,Festo,valve.jpg
+5,Inverter Drive,OMR-3764,$198,USA,Omron,inverter_drive.jpg
+6,Encoder,BOS-5931,$1309,USA,Bosch,encoder.jpg
+7,HMI Display,SIE-1105,$1029,Italy,Siemens,hmi_display.jpg
+8,Sensor,OMR-3835,$1058,Japan,Omron,sensor.jpg
+9,HMI Display,ABB-8528,$1295,China,ABB,hmi_display.jpg
+10,Conveyor Belt,MIT-9055,$366,Germany,Mitsubishi,conveyor_belt.jpg
+11,Cutting Blade,OMR-4234,$1418,India,Omron,cutting_blade.jpg
+12,Conveyor Belt,ABB-3044,$1153,Italy,ABB,conveyor_belt.jpg
+13,Cutting Blade,ABB-2573,$1016,USA,ABB,cutting_blade.jpg
+14,Sensor,ABB-2882,$202,China,ABB,sensor.jpg
+15,Servo Motor,FES-1118,$264,Japan,Festo,servo_motor.jpg
+16,PLC Controller,BOS-3211,$850,Germany,Bosch,plc_controller.jpg
+17,Conveyor Belt,SIE-1181,$1174,China,Siemens,conveyor_belt.jpg
+18,Inverter Drive,ABB-4777,$515,Italy,ABB,inverter_drive.jpg
+19,Cutting Blade,FES-3176,$788,Japan,Festo,cutting_blade.jpg
+20,Valve,SCH-4449,$852,Italy,Schneider,valve.jpg
+21,Encoder,SIE-3619,$353,Japan,Siemens,encoder.jpg
+22,Encoder,BOS-3158,$372,India,Bosch,encoder.jpg
+23,Servo Motor,SIE-5443,$1090,India,Siemens,servo_motor.jpg
+24,Servo Motor,FES-6772,$1166,China,Festo,servo_motor.jpg
+25,Valve,FES-7656,$943,India,Festo,valve.jpg
+26,Conveyor Belt,ABB-9142,$1447,China,ABB,conveyor_belt.jpg
+27,Cutting Blade,FES-9445,$735,Italy,Festo,cutting_blade.jpg
+28,Hydraulic Pump,SIE-7927,$783,Japan,Siemens,hydraulic_pump.jpg
+29,Valve,ABB-9288,$194,China,ABB,valve.jpg
+30,HMI Display,ABB-2357,$271,Germany,ABB,hmi_display.jpg
+31,Encoder,SCH-8621,$1171,India,Schneider,encoder.jpg
+32,Servo Motor,ABB-6780,$561,USA,ABB,servo_motor.jpg
+33,Cutting Blade,SCH-1637,$511,Germany,Schneider,cutting_blade.jpg
+34,Conveyor Belt,ABB-6758,$338,China,ABB,conveyor_belt.jpg
+35,Servo Motor,SCH-4955,$336,Germany,Schneider,servo_motor.jpg
+36,Encoder,ABB-6800,$1108,USA,ABB,encoder.jpg
+37,Conveyor Belt,SIE-2471,$1405,China,Siemens,conveyor_belt.jpg
+38,Inverter Drive,OMR-1885,$1009,Italy,Omron,inverter_drive.jpg
+39,Conveyor Belt,BOS-8651,$1074,Japan,Bosch,conveyor_belt.jpg
+40,HMI Display,ABB-2798,$256,South Korea,ABB,hmi_display.jpg
+41,Sensor,SCH-9756,$553,Italy,Schneider,sensor.jpg
+42,Sensor,SCH-8744,$456,Germany,Schneider,sensor.jpg
+43,Sensor,SIE-6408,$182,Japan,Siemens,sensor.jpg
+44,HMI Display,FES-1127,$681,China,Festo,hmi_display.jpg
+45,Inverter Drive,BOS-1544,$988,Germany,Bosch,inverter_drive.jpg
+46,Conveyor Belt,SIE-2334,$168,South Korea,Siemens,conveyor_belt.jpg
+47,Valve,SCH-5176,$352,Italy,Schneider,valve.jpg
+48,Cutting Blade,OMR-5614,$1167,USA,Omron,cutting_blade.jpg
+49,Servo Motor,SCH-5354,$344,China,Schneider,servo_motor.jpg
+50,Valve,FES-6710,$436,USA,Festo,valve.jpg
+51,Encoder,BOS-9481,$57,South Korea,Bosch,encoder.jpg
+52,Inverter Drive,FES-1103,$417,China,Festo,inverter_drive.jpg
+53,Inverter Drive,BOS-2938,$957,Italy,Bosch,inverter_drive.jpg
+54,Cutting Blade,ABB-4525,$106,Italy,ABB,cutting_blade.jpg
+55,Encoder,BOS-6627,$1070,Germany,Bosch,encoder.jpg
+56,Inverter Drive,FES-4030,$195,Italy,Festo,inverter_drive.jpg
+57,Hydraulic Pump,ABB-8153,$849,Italy,ABB,hydraulic_pump.jpg
+58,Inverter Drive,ABB-9392,$274,India,ABB,inverter_drive.jpg
+59,HMI Display,OMR-2114,$136,Germany,Omron,hmi_display.jpg
+60,Conveyor Belt,SIE-9948,$731,Italy,Siemens,conveyor_belt.jpg
+61,Hydraulic Pump,SIE-4611,$901,Germany,Siemens,hydraulic_pump.jpg
+62,Hydraulic Pump,ABB-3662,$1407,Germany,ABB,hydraulic_pump.jpg
+63,Inverter Drive,OMR-8696,$1079,USA,Omron,inverter_drive.jpg
+64,Hydraulic Pump,BOS-1112,$1360,Italy,Bosch,hydraulic_pump.jpg
+65,HMI Display,FES-5377,$1352,South Korea,Festo,hmi_display.jpg
+66,Conveyor Belt,ABB-3032,$720,USA,ABB,conveyor_belt.jpg
+67,Servo Motor,BOS-3967,$1179,South Korea,Bosch,servo_motor.jpg
+68,Conveyor Belt,FES-5609,$365,South Korea,Festo,conveyor_belt.jpg
+69,Encoder,SIE-4282,$1194,India,Siemens,encoder.jpg
+70,HMI Display,FES-8967,$608,USA,Festo,hmi_display.jpg
+71,Conveyor Belt,FES-5450,$721,China,Festo,conveyor_belt.jpg
+72,Valve,ABB-5566,$1139,India,ABB,valve.jpg
+73,Hydraulic Pump,BOS-5766,$515,India,Bosch,hydraulic_pump.jpg
+74,HMI Display,SCH-8787,$1395,Italy,Schneider,hmi_display.jpg
+75,Servo Motor,OMR-9488,$270,Italy,Omron,servo_motor.jpg
+76,Sensor,OMR-6684,$1030,Japan,Omron,sensor.jpg
+77,Encoder,MIT-7690,$307,Italy,Mitsubishi,encoder.jpg
+78,PLC Controller,BOS-2088,$427,USA,Bosch,plc_controller.jpg
+79,HMI Display,SIE-2417,$1268,Germany,Siemens,hmi_display.jpg
+80,Hydraulic Pump,BOS-8742,$578,South Korea,Bosch,hydraulic_pump.jpg
+81,Cutting Blade,OMR-2616,$665,Japan,Omron,cutting_blade.jpg
+82,Hydraulic Pump,BOS-7260,$866,USA,Bosch,hydraulic_pump.jpg
+83,Inverter Drive,FES-5384,$1158,Germany,Festo,inverter_drive.jpg
+84,PLC Controller,SCH-3019,$508,Japan,Schneider,plc_controller.jpg
+85,Sensor,FES-5702,$606,India,Festo,sensor.jpg
+86,Hydraulic Pump,ABB-1361,$1064,Italy,ABB,hydraulic_pump.jpg
+87,Inverter Drive,SCH-8679,$645,India,Schneider,inverter_drive.jpg
+88,Encoder,FES-1895,$922,Italy,Festo,encoder.jpg
+89,HMI Display,BOS-3852,$1077,South Korea,Bosch,hmi_display.jpg
+90,HMI Display,OMR-6519,$239,Italy,Omron,hmi_display.jpg
+91,Cutting Blade,FES-1868,$512,Germany,Festo,cutting_blade.jpg
+92,Servo Motor,SIE-2684,$1350,Germany,Siemens,servo_motor.jpg
+93,Sensor,SIE-1714,$1300,South Korea,Siemens,sensor.jpg
+94,Sensor,BOS-8062,$445,Japan,Bosch,sensor.jpg
+95,HMI Display,FES-6052,$313,India,Festo,hmi_display.jpg
+96,Servo Motor,BOS-8332,$933,Germany,Bosch,servo_motor.jpg
+97,HMI Display,OMR-2119,$618,China,Omron,hmi_display.jpg
+98,Inverter Drive,MIT-8526,$1159,China,Mitsubishi,inverter_drive.jpg
+99,Servo Motor,OMR-4480,$274,USA,Omron,servo_motor.jpg
+100,Sensor,OMR-4289,$81,South Korea,Omron,sensor.jpg
+101,Inverter Drive,FES-8888,$206,South Korea,Festo,inverter_drive.jpg
+102,Cutting Blade,SIE-1593,$469,South Korea,Siemens,cutting_blade.jpg
+103,Encoder,SIE-4821,$364,India,Siemens,encoder.jpg
+104,Valve,SCH-5785,$1286,South Korea,Schneider,valve.jpg
+105,Servo Motor,SIE-3226,$1121,Germany,Siemens,servo_motor.jpg
+106,Inverter Drive,SCH-6488,$947,Germany,Schneider,inverter_drive.jpg
+107,Hydraulic Pump,BOS-7281,$835,China,Bosch,hydraulic_pump.jpg
+108,Sensor,ABB-3686,$1281,Italy,ABB,sensor.jpg
+109,Conveyor Belt,ABB-1316,$432,Italy,ABB,conveyor_belt.jpg
+110,PLC Controller,BOS-9024,$1015,India,Bosch,plc_controller.jpg
+111,HMI Display,MIT-7304,$539,India,Mitsubishi,hmi_display.jpg
+112,Hydraulic Pump,ABB-5940,$1212,Italy,ABB,hydraulic_pump.jpg
+113,Hydraulic Pump,MIT-5229,$1174,Italy,Mitsubishi,hydraulic_pump.jpg
+114,Encoder,MIT-2385,$94,USA,Mitsubishi,encoder.jpg
+115,PLC Controller,SIE-7071,$1431,South Korea,Siemens,plc_controller.jpg
+116,HMI Display,OMR-7625,$522,Italy,Omron,hmi_display.jpg
+117,Servo Motor,BOS-1727,$1174,Germany,Bosch,servo_motor.jpg
+118,Cutting Blade,SIE-1941,$523,India,Siemens,cutting_blade.jpg
+119,HMI Display,SCH-6695,$278,Japan,Schneider,hmi_display.jpg
+120,Servo Motor,SIE-8279,$1469,USA,Siemens,servo_motor.jpg
+121,Sensor,SIE-7166,$1361,Japan,Siemens,sensor.jpg
+122,Conveyor Belt,FES-1142,$247,Italy,Festo,conveyor_belt.jpg
+123,Valve,FES-4947,$206,South Korea,Festo,valve.jpg
+124,PLC Controller,ABB-9465,$354,China,ABB,plc_controller.jpg
+125,HMI Display,BOS-2239,$1356,Germany,Bosch,hmi_display.jpg
+126,Inverter Drive,OMR-6420,$1490,Italy,Omron,inverter_drive.jpg
+127,Conveyor Belt,SIE-4695,$1334,Japan,Siemens,conveyor_belt.jpg
+128,Valve,BOS-5358,$522,Germany,Bosch,valve.jpg
+129,Conveyor Belt,BOS-8397,$163,Japan,Bosch,conveyor_belt.jpg
+130,Valve,ABB-9535,$446,Japan,ABB,valve.jpg
+131,Cutting Blade,FES-2493,$1352,South Korea,Festo,cutting_blade.jpg
+132,HMI Display,FES-8998,$54,South Korea,Festo,hmi_display.jpg
+133,Inverter Drive,OMR-5629,$876,South Korea,Omron,inverter_drive.jpg
+134,Encoder,FES-5729,$1097,South Korea,Festo,encoder.jpg
+135,Sensor,OMR-7181,$503,China,Omron,sensor.jpg
+136,PLC Controller,FES-2331,$955,Japan,Festo,plc_controller.jpg
+137,Cutting Blade,SIE-6807,$936,USA,Siemens,cutting_blade.jpg
+138,Conveyor Belt,OMR-7331,$704,South Korea,Omron,conveyor_belt.jpg
+139,Servo Motor,BOS-9612,$598,Japan,Bosch,servo_motor.jpg
+140,Valve,FES-4833,$1465,South Korea,Festo,valve.jpg
+141,Hydraulic Pump,SIE-6445,$363,China,Siemens,hydraulic_pump.jpg
+142,Servo Motor,ABB-4497,$432,India,ABB,servo_motor.jpg
+143,Encoder,SIE-9591,$640,Germany,Siemens,encoder.jpg
+144,Servo Motor,BOS-6333,$834,Japan,Bosch,servo_motor.jpg
+145,Cutting Blade,FES-8677,$564,China,Festo,cutting_blade.jpg
+146,Hydraulic Pump,SIE-2015,$352,Japan,Siemens,hydraulic_pump.jpg
+147,Servo Motor,ABB-2998,$1261,Italy,ABB,servo_motor.jpg
+148,PLC Controller,ABB-9659,$678,Germany,ABB,plc_controller.jpg
+149,Cutting Blade,MIT-9496,$191,India,Mitsubishi,cutting_blade.jpg
+150,Cutting Blade,SIE-2447,$1387,Japan,Siemens,cutting_blade.jpg
+151,PLC Controller,MIT-7567,$1108,USA,Mitsubishi,plc_controller.jpg
+152,Encoder,SCH-2436,$1046,South Korea,Schneider,encoder.jpg
+153,HMI Display,FES-6769,$1064,China,Festo,hmi_display.jpg
+154,Conveyor Belt,SCH-5672,$1129,Italy,Schneider,conveyor_belt.jpg
+155,Servo Motor,SCH-9925,$912,USA,Schneider,servo_motor.jpg
+156,Hydraulic Pump,SCH-7450,$552,South Korea,Schneider,hydraulic_pump.jpg
+157,Hydraulic Pump,MIT-8380,$887,Italy,Mitsubishi,hydraulic_pump.jpg
+158,Inverter Drive,OMR-4400,$707,Germany,Omron,inverter_drive.jpg
+159,Hydraulic Pump,OMR-3815,$470,Italy,Omron,hydraulic_pump.jpg
+160,HMI Display,ABB-3476,$818,Japan,ABB,hmi_display.jpg
+161,Valve,SIE-5902,$603,South Korea,Siemens,valve.jpg
+162,Sensor,SIE-8039,$709,Germany,Siemens,sensor.jpg
+163,Encoder,SIE-9995,$449,India,Siemens,encoder.jpg
+164,Sensor,SIE-9266,$56,Italy,Siemens,sensor.jpg
+165,Servo Motor,MIT-1684,$1186,Italy,Mitsubishi,servo_motor.jpg
+166,PLC Controller,OMR-6722,$990,Germany,Omron,plc_controller.jpg
+167,Sensor,SCH-8618,$722,USA,Schneider,sensor.jpg
+168,Sensor,ABB-3854,$858,Germany,ABB,sensor.jpg
+169,Inverter Drive,SIE-5129,$1005,Japan,Siemens,inverter_drive.jpg
+170,Conveyor Belt,ABB-1111,$1269,Italy,ABB,conveyor_belt.jpg
+171,Inverter Drive,BOS-6942,$1403,USA,Bosch,inverter_drive.jpg
+172,Servo Motor,ABB-8621,$1025,USA,ABB,servo_motor.jpg
+173,Encoder,ABB-6190,$500,Japan,ABB,encoder.jpg
+174,Conveyor Belt,SIE-2604,$1187,Japan,Siemens,conveyor_belt.jpg
+175,Sensor,SCH-4212,$115,Japan,Schneider,sensor.jpg
+176,Sensor,SCH-9126,$1095,Germany,Schneider,sensor.jpg
+177,PLC Controller,OMR-1866,$254,USA,Omron,plc_controller.jpg
+178,Conveyor Belt,FES-7739,$1140,Italy,Festo,conveyor_belt.jpg
+179,Hydraulic Pump,BOS-2820,$512,China,Bosch,hydraulic_pump.jpg
+180,Sensor,OMR-5137,$1152,Japan,Omron,sensor.jpg
+181,Hydraulic Pump,BOS-6419,$747,South Korea,Bosch,hydraulic_pump.jpg
+182,PLC Controller,FES-5340,$544,Italy,Festo,plc_controller.jpg
+183,Servo Motor,MIT-2469,$211,Japan,Mitsubishi,servo_motor.jpg
+184,Sensor,FES-7076,$485,Italy,Festo,sensor.jpg
+185,Sensor,BOS-6865,$1009,South Korea,Bosch,sensor.jpg
+186,Conveyor Belt,OMR-2909,$444,Japan,Omron,conveyor_belt.jpg
+187,Sensor,BOS-9875,$1068,Germany,Bosch,sensor.jpg
+188,Conveyor Belt,MIT-5075,$1093,USA,Mitsubishi,conveyor_belt.jpg
+189,Conveyor Belt,BOS-1793,$1474,India,Bosch,conveyor_belt.jpg
+190,Servo Motor,BOS-7625,$812,China,Bosch,servo_motor.jpg
+191,Servo Motor,OMR-2274,$1013,India,Omron,servo_motor.jpg
+192,Inverter Drive,SCH-8355,$1119,Italy,Schneider,inverter_drive.jpg
+193,PLC Controller,FES-2079,$953,China,Festo,plc_controller.jpg
+194,Sensor,BOS-6682,$464,Italy,Bosch,sensor.jpg
+195,Servo Motor,MIT-6164,$458,South Korea,Mitsubishi,servo_motor.jpg
+196,Inverter Drive,SIE-5863,$917,Japan,Siemens,inverter_drive.jpg
+197,Servo Motor,OMR-2847,$740,China,Omron,servo_motor.jpg
+198,Inverter Drive,SIE-9322,$782,Japan,Siemens,inverter_drive.jpg
+199,Encoder,OMR-6149,$599,China,Omron,encoder.jpg
+200,Inverter Drive,SIE-8717,$138,India,Siemens,inverter_drive.jpg
+201,PLC Controller,FES-4645,$971,Germany,Festo,plc_controller.jpg
+202,Servo Motor,ABB-9860,$741,China,ABB,servo_motor.jpg
+203,Hydraulic Pump,BOS-4783,$1328,China,Bosch,hydraulic_pump.jpg
+204,Sensor,BOS-9565,$183,Germany,Bosch,sensor.jpg
+205,Valve,OMR-2909,$462,China,Omron,valve.jpg
+206,Encoder,SCH-1343,$185,India,Schneider,encoder.jpg
+207,Conveyor Belt,SCH-8222,$1082,Japan,Schneider,conveyor_belt.jpg
+208,Servo Motor,OMR-6590,$1490,Italy,Omron,servo_motor.jpg
+209,PLC Controller,OMR-5275,$1449,India,Omron,plc_controller.jpg
+210,Cutting Blade,SIE-9100,$1064,South Korea,Siemens,cutting_blade.jpg
+211,Hydraulic Pump,SCH-7058,$1461,Germany,Schneider,hydraulic_pump.jpg
+212,PLC Controller,OMR-9852,$1221,India,Omron,plc_controller.jpg
+213,Encoder,BOS-9408,$1475,USA,Bosch,encoder.jpg
+214,Encoder,MIT-7445,$1200,China,Mitsubishi,encoder.jpg
+215,Hydraulic Pump,ABB-9121,$601,China,ABB,hydraulic_pump.jpg
+216,HMI Display,MIT-2124,$919,Japan,Mitsubishi,hmi_display.jpg
+217,Inverter Drive,BOS-3587,$847,Italy,Bosch,inverter_drive.jpg
+218,Inverter Drive,BOS-9523,$408,China,Bosch,inverter_drive.jpg
+219,HMI Display,BOS-3266,$450,India,Bosch,hmi_display.jpg
+220,Hydraulic Pump,SCH-8893,$1259,Germany,Schneider,hydraulic_pump.jpg
+221,HMI Display,OMR-5094,$456,South Korea,Omron,hmi_display.jpg
+222,Cutting Blade,FES-4112,$262,South Korea,Festo,cutting_blade.jpg
+223,PLC Controller,FES-1707,$459,USA,Festo,plc_controller.jpg
+224,Hydraulic Pump,SCH-7433,$284,China,Schneider,hydraulic_pump.jpg
+225,HMI Display,ABB-3144,$1001,Germany,ABB,hmi_display.jpg
+226,PLC Controller,ABB-2865,$656,USA,ABB,plc_controller.jpg
+227,PLC Controller,OMR-5011,$699,Japan,Omron,plc_controller.jpg
+228,Cutting Blade,FES-7436,$1200,India,Festo,cutting_blade.jpg
+229,Hydraulic Pump,FES-1893,$1248,USA,Festo,hydraulic_pump.jpg
+230,PLC Controller,ABB-2498,$1461,Italy,ABB,plc_controller.jpg
+231,Cutting Blade,MIT-4611,$1138,Germany,Mitsubishi,cutting_blade.jpg
+232,Encoder,SIE-8552,$832,Italy,Siemens,encoder.jpg
+233,PLC Controller,BOS-9028,$123,Japan,Bosch,plc_controller.jpg
+234,Hydraulic Pump,FES-8591,$1493,Italy,Festo,hydraulic_pump.jpg
+235,Cutting Blade,SIE-6573,$1055,USA,Siemens,cutting_blade.jpg
+236,HMI Display,ABB-1610,$1317,Italy,ABB,hmi_display.jpg
+237,PLC Controller,FES-3756,$792,India,Festo,plc_controller.jpg
+238,Sensor,MIT-4685,$222,China,Mitsubishi,sensor.jpg
+239,Cutting Blade,FES-3421,$792,South Korea,Festo,cutting_blade.jpg
+240,Valve,BOS-6127,$1437,Italy,Bosch,valve.jpg
+241,Hydraulic Pump,SCH-5949,$1433,USA,Schneider,hydraulic_pump.jpg
+242,Cutting Blade,BOS-7926,$1379,USA,Bosch,cutting_blade.jpg
+243,HMI Display,SCH-4503,$374,China,Schneider,hmi_display.jpg
+244,Inverter Drive,FES-1957,$715,India,Festo,inverter_drive.jpg
+245,PLC Controller,MIT-3737,$303,China,Mitsubishi,plc_controller.jpg
+246,Inverter Drive,MIT-7951,$379,South Korea,Mitsubishi,inverter_drive.jpg
+247,PLC Controller,SCH-8164,$132,USA,Schneider,plc_controller.jpg
+248,HMI Display,SCH-9301,$766,Japan,Schneider,hmi_display.jpg
+249,Encoder,BOS-9457,$1461,Germany,Bosch,encoder.jpg
+250,HMI Display,BOS-8115,$671,Italy,Bosch,hmi_display.jpg
+251,Valve,OMR-8939,$330,USA,Omron,valve.jpg
+252,Sensor,MIT-2519,$144,India,Mitsubishi,sensor.jpg
+253,Hydraulic Pump,BOS-4061,$787,Japan,Bosch,hydraulic_pump.jpg
+254,Encoder,FES-9320,$1044,South Korea,Festo,encoder.jpg
+255,Conveyor Belt,MIT-6489,$714,India,Mitsubishi,conveyor_belt.jpg
+256,Encoder,OMR-3871,$1454,Germany,Omron,encoder.jpg
+257,Servo Motor,MIT-9962,$196,Italy,Mitsubishi,servo_motor.jpg
+258,Hydraulic Pump,SIE-1487,$1263,China,Siemens,hydraulic_pump.jpg
+259,HMI Display,ABB-9149,$365,USA,ABB,hmi_display.jpg
+260,Hydraulic Pump,BOS-6322,$243,China,Bosch,hydraulic_pump.jpg
+261,Inverter Drive,ABB-4469,$875,China,ABB,inverter_drive.jpg
+262,Inverter Drive,ABB-3969,$470,China,ABB,inverter_drive.jpg
+263,Servo Motor,FES-9271,$1368,Germany,Festo,servo_motor.jpg
+264,Servo Motor,ABB-5680,$54,USA,ABB,servo_motor.jpg
+265,Servo Motor,SIE-7095,$1010,India,Siemens,servo_motor.jpg
+266,Encoder,SCH-8023,$333,China,Schneider,encoder.jpg
+267,PLC Controller,OMR-9534,$1098,Japan,Omron,plc_controller.jpg
+268,Servo Motor,SIE-9865,$824,India,Siemens,servo_motor.jpg
+269,Inverter Drive,ABB-5243,$638,China,ABB,inverter_drive.jpg
+270,Servo Motor,OMR-7239,$916,USA,Omron,servo_motor.jpg
+271,Conveyor Belt,SCH-7791,$166,Germany,Schneider,conveyor_belt.jpg
+272,Servo Motor,ABB-4014,$1203,Italy,ABB,servo_motor.jpg
+273,Servo Motor,BOS-7654,$672,Italy,Bosch,servo_motor.jpg
+274,Conveyor Belt,OMR-3951,$880,South Korea,Omron,conveyor_belt.jpg
+275,Sensor,BOS-4753,$103,China,Bosch,sensor.jpg
+276,Cutting Blade,SIE-6229,$959,China,Siemens,cutting_blade.jpg
+277,Hydraulic Pump,OMR-7942,$254,USA,Omron,hydraulic_pump.jpg
+278,Hydraulic Pump,BOS-9221,$636,India,Bosch,hydraulic_pump.jpg
+279,Inverter Drive,FES-9811,$845,Italy,Festo,inverter_drive.jpg
+280,Cutting Blade,ABB-3720,$499,Italy,ABB,cutting_blade.jpg
+281,Valve,SIE-8465,$688,China,Siemens,valve.jpg
+282,Valve,BOS-3628,$1293,India,Bosch,valve.jpg
+283,PLC Controller,SIE-5239,$851,India,Siemens,plc_controller.jpg
+284,Inverter Drive,OMR-8319,$550,Italy,Omron,inverter_drive.jpg
+285,HMI Display,OMR-5589,$260,India,Omron,hmi_display.jpg
+286,Valve,OMR-2032,$1309,South Korea,Omron,valve.jpg
+287,Hydraulic Pump,FES-4673,$1385,Germany,Festo,hydraulic_pump.jpg
+288,Conveyor Belt,SIE-2077,$1295,China,Siemens,conveyor_belt.jpg
+289,Encoder,OMR-6124,$348,Germany,Omron,encoder.jpg
+290,Servo Motor,SIE-1929,$1282,South Korea,Siemens,servo_motor.jpg
+291,Encoder,ABB-9834,$1429,USA,ABB,encoder.jpg
+292,Valve,ABB-7075,$966,Japan,ABB,valve.jpg
+293,Cutting Blade,SCH-2306,$1329,Germany,Schneider,cutting_blade.jpg
+294,Valve,SIE-6785,$1492,Japan,Siemens,valve.jpg
+295,Servo Motor,ABB-9590,$449,South Korea,ABB,servo_motor.jpg
+296,HMI Display,SCH-5135,$338,India,Schneider,hmi_display.jpg
+297,Valve,ABB-6715,$746,Italy,ABB,valve.jpg
+298,Inverter Drive,ABB-5972,$300,USA,ABB,inverter_drive.jpg
+299,Inverter Drive,ABB-9077,$1379,Italy,ABB,inverter_drive.jpg
+300,Sensor,MIT-6613,$259,Germany,Mitsubishi,sensor.jpg
+301,Conveyor Belt,BOS-1045,$1158,India,Bosch,conveyor_belt.jpg
+302,PLC Controller,MIT-4584,$137,USA,Mitsubishi,plc_controller.jpg
+303,PLC Controller,ABB-8104,$1057,South Korea,ABB,plc_controller.jpg
+304,Conveyor Belt,FES-3210,$1030,China,Festo,conveyor_belt.jpg
+305,Encoder,ABB-9426,$176,South Korea,ABB,encoder.jpg
+306,HMI Display,SCH-2916,$1432,India,Schneider,hmi_display.jpg
+307,HMI Display,MIT-5254,$1470,India,Mitsubishi,hmi_display.jpg
+308,Sensor,SCH-6954,$1414,China,Schneider,sensor.jpg
+309,Cutting Blade,FES-8279,$769,South Korea,Festo,cutting_blade.jpg
+310,Cutting Blade,MIT-5899,$154,Japan,Mitsubishi,cutting_blade.jpg
+311,Cutting Blade,FES-1772,$819,Germany,Festo,cutting_blade.jpg
+312,Conveyor Belt,ABB-2454,$207,China,ABB,conveyor_belt.jpg
+313,PLC Controller,SIE-5089,$719,Italy,Siemens,plc_controller.jpg
+314,Hydraulic Pump,FES-4685,$390,China,Festo,hydraulic_pump.jpg
+315,PLC Controller,SIE-6676,$78,Italy,Siemens,plc_controller.jpg
+316,Inverter Drive,FES-4638,$365,Japan,Festo,inverter_drive.jpg
+317,Valve,SCH-6506,$1101,South Korea,Schneider,valve.jpg
+318,Hydraulic Pump,SCH-3424,$850,Italy,Schneider,hydraulic_pump.jpg
+319,PLC Controller,OMR-6567,$216,South Korea,Omron,plc_controller.jpg
+320,PLC Controller,ABB-1318,$1345,China,ABB,plc_controller.jpg
+321,HMI Display,BOS-9007,$303,India,Bosch,hmi_display.jpg
+322,Sensor,FES-6197,$1485,USA,Festo,sensor.jpg
+323,HMI Display,ABB-9805,$358,USA,ABB,hmi_display.jpg
+324,Servo Motor,OMR-4682,$467,India,Omron,servo_motor.jpg
+325,HMI Display,SIE-1165,$232,China,Siemens,hmi_display.jpg
+326,HMI Display,OMR-7596,$801,Italy,Omron,hmi_display.jpg
+327,Servo Motor,SIE-7986,$466,Japan,Siemens,servo_motor.jpg
+328,HMI Display,FES-1988,$69,USA,Festo,hmi_display.jpg
+329,Inverter Drive,BOS-9633,$978,South Korea,Bosch,inverter_drive.jpg
+330,PLC Controller,SCH-9585,$741,India,Schneider,plc_controller.jpg
+331,Hydraulic Pump,BOS-2118,$1091,China,Bosch,hydraulic_pump.jpg
+332,Conveyor Belt,BOS-3277,$824,Japan,Bosch,conveyor_belt.jpg
+333,Inverter Drive,MIT-3469,$1136,USA,Mitsubishi,inverter_drive.jpg
+334,Sensor,SCH-2004,$213,Italy,Schneider,sensor.jpg
+335,Encoder,OMR-5579,$802,South Korea,Omron,encoder.jpg
+336,Conveyor Belt,BOS-4414,$1047,India,Bosch,conveyor_belt.jpg
+337,Cutting Blade,ABB-3245,$943,South Korea,ABB,cutting_blade.jpg
+338,Hydraulic Pump,SCH-9812,$518,USA,Schneider,hydraulic_pump.jpg
+339,PLC Controller,FES-8711,$236,Japan,Festo,plc_controller.jpg
+340,PLC Controller,ABB-9022,$1329,Germany,ABB,plc_controller.jpg
+341,Conveyor Belt,MIT-6563,$1466,Japan,Mitsubishi,conveyor_belt.jpg
+342,Valve,SCH-4186,$1395,China,Schneider,valve.jpg
+343,Hydraulic Pump,SIE-5445,$1297,USA,Siemens,hydraulic_pump.jpg
+344,HMI Display,FES-2873,$985,USA,Festo,hmi_display.jpg
+345,Inverter Drive,SIE-1680,$373,Italy,Siemens,inverter_drive.jpg
+346,Encoder,FES-1451,$592,Germany,Festo,encoder.jpg
+347,PLC Controller,OMR-9088,$822,USA,Omron,plc_controller.jpg
+348,Servo Motor,MIT-4292,$262,Japan,Mitsubishi,servo_motor.jpg
+349,Sensor,SIE-9057,$1427,South Korea,Siemens,sensor.jpg
+350,Conveyor Belt,SIE-8998,$399,India,Siemens,conveyor_belt.jpg
+351,Encoder,BOS-9932,$226,India,Bosch,encoder.jpg
+352,Inverter Drive,ABB-4917,$471,China,ABB,inverter_drive.jpg
+353,Encoder,SIE-6165,$955,Italy,Siemens,encoder.jpg
+354,Conveyor Belt,ABB-3661,$963,USA,ABB,conveyor_belt.jpg
+355,Sensor,FES-2192,$1368,Japan,Festo,sensor.jpg
+356,Cutting Blade,MIT-1654,$1149,China,Mitsubishi,cutting_blade.jpg
+357,Valve,FES-7468,$100,USA,Festo,valve.jpg
+358,PLC Controller,FES-2857,$1442,China,Festo,plc_controller.jpg
+359,Servo Motor,BOS-1508,$319,Japan,Bosch,servo_motor.jpg
+360,Conveyor Belt,SIE-6579,$174,Italy,Siemens,conveyor_belt.jpg
+361,Valve,SCH-4677,$799,India,Schneider,valve.jpg
+362,Cutting Blade,SIE-8991,$933,Germany,Siemens,cutting_blade.jpg
+363,Valve,SIE-5874,$1100,Germany,Siemens,valve.jpg
+364,Conveyor Belt,BOS-7948,$130,Italy,Bosch,conveyor_belt.jpg
+365,HMI Display,FES-5775,$110,India,Festo,hmi_display.jpg
+366,Conveyor Belt,SIE-9298,$473,South Korea,Siemens,conveyor_belt.jpg
+367,Conveyor Belt,SIE-9525,$1406,India,Siemens,conveyor_belt.jpg
+368,HMI Display,FES-8189,$1183,Germany,Festo,hmi_display.jpg
+369,Encoder,FES-4856,$1143,South Korea,Festo,encoder.jpg
+370,Servo Motor,SIE-7110,$1482,Japan,Siemens,servo_motor.jpg
+371,Encoder,MIT-2012,$492,India,Mitsubishi,encoder.jpg
+372,Cutting Blade,FES-1839,$904,South Korea,Festo,cutting_blade.jpg
+373,Sensor,ABB-8665,$1102,Germany,ABB,sensor.jpg
+374,PLC Controller,SIE-6224,$1013,Japan,Siemens,plc_controller.jpg
+375,Cutting Blade,BOS-1857,$767,USA,Bosch,cutting_blade.jpg
+376,Valve,OMR-4366,$292,Germany,Omron,valve.jpg
+377,Inverter Drive,BOS-3807,$446,China,Bosch,inverter_drive.jpg
+378,HMI Display,SCH-9877,$161,Germany,Schneider,hmi_display.jpg
+379,Servo Motor,SIE-9134,$427,China,Siemens,servo_motor.jpg
+380,Conveyor Belt,SCH-5985,$251,South Korea,Schneider,conveyor_belt.jpg
+381,Valve,ABB-6219,$513,South Korea,ABB,valve.jpg
+382,Servo Motor,SCH-1101,$445,India,Schneider,servo_motor.jpg
+383,Sensor,BOS-7122,$319,South Korea,Bosch,sensor.jpg
+384,HMI Display,SIE-1481,$249,South Korea,Siemens,hmi_display.jpg
+385,Conveyor Belt,BOS-8415,$814,USA,Bosch,conveyor_belt.jpg
+386,PLC Controller,SIE-4132,$715,South Korea,Siemens,plc_controller.jpg
+387,Hydraulic Pump,ABB-3748,$1386,India,ABB,hydraulic_pump.jpg
+388,Inverter Drive,SIE-4957,$1491,India,Siemens,inverter_drive.jpg
+389,Inverter Drive,MIT-8983,$557,Japan,Mitsubishi,inverter_drive.jpg
+390,Conveyor Belt,OMR-2183,$403,China,Omron,conveyor_belt.jpg
+391,Servo Motor,ABB-4217,$1155,India,ABB,servo_motor.jpg
+392,Inverter Drive,SIE-9641,$190,Germany,Siemens,inverter_drive.jpg
+393,Valve,MIT-8231,$1279,Germany,Mitsubishi,valve.jpg
+394,Hydraulic Pump,SIE-5440,$1011,Germany,Siemens,hydraulic_pump.jpg
+395,Valve,BOS-5272,$1355,Japan,Bosch,valve.jpg
+396,Encoder,BOS-2811,$362,India,Bosch,encoder.jpg
+397,Inverter Drive,SCH-1488,$1392,Germany,Schneider,inverter_drive.jpg
+398,Servo Motor,MIT-7664,$939,Germany,Mitsubishi,servo_motor.jpg
+399,Valve,SIE-6194,$176,Italy,Siemens,valve.jpg
+400,Valve,BOS-1473,$1166,USA,Bosch,valve.jpg
+401,Hydraulic Pump,BOS-7434,$647,South Korea,Bosch,hydraulic_pump.jpg
+402,Inverter Drive,SCH-5094,$751,India,Schneider,inverter_drive.jpg
+403,Valve,ABB-9420,$1494,China,ABB,valve.jpg
+404,Conveyor Belt,MIT-1620,$1158,India,Mitsubishi,conveyor_belt.jpg
+405,Inverter Drive,ABB-3383,$600,Japan,ABB,inverter_drive.jpg
+406,Servo Motor,SCH-5072,$352,Japan,Schneider,servo_motor.jpg
+407,Encoder,ABB-7065,$840,Germany,ABB,encoder.jpg
+408,Cutting Blade,BOS-3941,$339,South Korea,Bosch,cutting_blade.jpg
+409,Encoder,BOS-6363,$891,Germany,Bosch,encoder.jpg
+410,Hydraulic Pump,OMR-9509,$1431,Japan,Omron,hydraulic_pump.jpg
+411,Cutting Blade,OMR-7551,$60,USA,Omron,cutting_blade.jpg
+412,Servo Motor,SCH-1035,$1422,China,Schneider,servo_motor.jpg
+413,Inverter Drive,ABB-1507,$638,Germany,ABB,inverter_drive.jpg
+414,Valve,BOS-3476,$1414,Italy,Bosch,valve.jpg
+415,Hydraulic Pump,BOS-8336,$282,China,Bosch,hydraulic_pump.jpg
+416,Encoder,OMR-2610,$871,USA,Omron,encoder.jpg
+417,Valve,ABB-9625,$319,Japan,ABB,valve.jpg
+418,Encoder,OMR-3715,$886,Italy,Omron,encoder.jpg
+419,PLC Controller,ABB-2878,$277,South Korea,ABB,plc_controller.jpg
+420,Servo Motor,SCH-5376,$1230,India,Schneider,servo_motor.jpg
+421,PLC Controller,FES-8269,$237,USA,Festo,plc_controller.jpg
+422,HMI Display,SIE-5337,$578,China,Siemens,hmi_display.jpg
+423,HMI Display,SIE-7300,$459,Japan,Siemens,hmi_display.jpg
+424,HMI Display,SCH-1605,$428,South Korea,Schneider,hmi_display.jpg
+425,Valve,MIT-2467,$1166,India,Mitsubishi,valve.jpg
+426,HMI Display,ABB-8691,$939,South Korea,ABB,hmi_display.jpg
+427,Valve,SIE-3058,$1254,Germany,Siemens,valve.jpg
+428,Inverter Drive,FES-5629,$415,India,Festo,inverter_drive.jpg
+429,Cutting Blade,SCH-4495,$1225,Germany,Schneider,cutting_blade.jpg
+430,Encoder,SCH-9754,$1496,China,Schneider,encoder.jpg
+431,Hydraulic Pump,SIE-6577,$177,USA,Siemens,hydraulic_pump.jpg
+432,Valve,SIE-8723,$1397,India,Siemens,valve.jpg
+433,Inverter Drive,ABB-8981,$314,South Korea,ABB,inverter_drive.jpg
+434,Encoder,MIT-5071,$914,USA,Mitsubishi,encoder.jpg
+435,Cutting Blade,FES-2960,$1057,India,Festo,cutting_blade.jpg
+436,Inverter Drive,OMR-8087,$256,Germany,Omron,inverter_drive.jpg
+437,Sensor,MIT-8499,$434,Germany,Mitsubishi,sensor.jpg
+438,Inverter Drive,SIE-4273,$115,USA,Siemens,inverter_drive.jpg
+439,PLC Controller,SIE-7305,$1145,China,Siemens,plc_controller.jpg
+440,Encoder,BOS-9540,$953,India,Bosch,encoder.jpg
+441,Conveyor Belt,SCH-5975,$1002,Japan,Schneider,conveyor_belt.jpg
+442,Cutting Blade,FES-9267,$1491,China,Festo,cutting_blade.jpg
+443,Conveyor Belt,OMR-4599,$511,Japan,Omron,conveyor_belt.jpg
+444,Hydraulic Pump,FES-7940,$426,India,Festo,hydraulic_pump.jpg
+445,HMI Display,FES-2635,$509,China,Festo,hmi_display.jpg
+446,Inverter Drive,ABB-1345,$749,Italy,ABB,inverter_drive.jpg
+447,PLC Controller,OMR-5577,$95,China,Omron,plc_controller.jpg
+448,Servo Motor,ABB-7852,$165,India,ABB,servo_motor.jpg
+449,Inverter Drive,BOS-9562,$454,USA,Bosch,inverter_drive.jpg
+450,Servo Motor,MIT-6684,$959,India,Mitsubishi,servo_motor.jpg
+451,Cutting Blade,SCH-1036,$641,USA,Schneider,cutting_blade.jpg
+452,HMI Display,ABB-8059,$859,USA,ABB,hmi_display.jpg
+453,Inverter Drive,SCH-4640,$245,Italy,Schneider,inverter_drive.jpg
+454,Conveyor Belt,BOS-9337,$451,Germany,Bosch,conveyor_belt.jpg
+455,Cutting Blade,OMR-3892,$327,China,Omron,cutting_blade.jpg
+456,Servo Motor,SCH-8965,$855,Japan,Schneider,servo_motor.jpg
+457,Sensor,BOS-4619,$206,Italy,Bosch,sensor.jpg
+458,Encoder,SCH-2879,$1494,Japan,Schneider,encoder.jpg
+459,Sensor,ABB-7302,$1336,India,ABB,sensor.jpg
+460,Valve,OMR-2283,$1289,USA,Omron,valve.jpg
+461,Valve,SCH-2831,$1011,India,Schneider,valve.jpg
+462,Cutting Blade,FES-6800,$931,South Korea,Festo,cutting_blade.jpg
+463,PLC Controller,FES-9068,$1486,USA,Festo,plc_controller.jpg
+464,Sensor,MIT-8507,$1472,Germany,Mitsubishi,sensor.jpg
+465,Sensor,SIE-9620,$1460,China,Siemens,sensor.jpg
+466,Inverter Drive,SIE-1376,$950,Japan,Siemens,inverter_drive.jpg
+467,PLC Controller,SCH-2484,$309,India,Schneider,plc_controller.jpg
+468,PLC Controller,OMR-4492,$1413,Japan,Omron,plc_controller.jpg
+469,Encoder,FES-1797,$1368,India,Festo,encoder.jpg
+470,Valve,SIE-8547,$791,China,Siemens,valve.jpg
+471,PLC Controller,SCH-8843,$498,China,Schneider,plc_controller.jpg
+472,Servo Motor,BOS-8471,$1265,Germany,Bosch,servo_motor.jpg
+473,Hydraulic Pump,SIE-8387,$343,South Korea,Siemens,hydraulic_pump.jpg
+474,Servo Motor,OMR-6194,$596,Germany,Omron,servo_motor.jpg
+475,HMI Display,FES-9611,$629,South Korea,Festo,hmi_display.jpg
+476,Encoder,ABB-7959,$1398,South Korea,ABB,encoder.jpg
+477,Inverter Drive,OMR-2690,$1175,USA,Omron,inverter_drive.jpg
+478,Sensor,FES-7596,$1490,Italy,Festo,sensor.jpg
+479,Servo Motor,SIE-6019,$1361,China,Siemens,servo_motor.jpg
+480,Encoder,SCH-5742,$147,USA,Schneider,encoder.jpg
+481,Sensor,BOS-7552,$513,USA,Bosch,sensor.jpg
+482,Conveyor Belt,SIE-9070,$1254,Italy,Siemens,conveyor_belt.jpg
+483,Sensor,ABB-2258,$216,China,ABB,sensor.jpg
+484,Encoder,BOS-8893,$387,South Korea,Bosch,encoder.jpg
+485,Sensor,SIE-4179,$745,USA,Siemens,sensor.jpg
+486,PLC Controller,SCH-8856,$181,USA,Schneider,plc_controller.jpg
+487,HMI Display,MIT-1732,$1253,Germany,Mitsubishi,hmi_display.jpg
+488,Cutting Blade,BOS-9553,$1353,Japan,Bosch,cutting_blade.jpg
+489,Encoder,BOS-4396,$852,Italy,Bosch,encoder.jpg
+490,Valve,SCH-8203,$115,Italy,Schneider,valve.jpg
+491,Hydraulic Pump,ABB-6604,$1077,China,ABB,hydraulic_pump.jpg
+492,Hydraulic Pump,MIT-7605,$98,USA,Mitsubishi,hydraulic_pump.jpg
+493,Servo Motor,FES-6575,$298,USA,Festo,servo_motor.jpg
+494,Servo Motor,FES-9808,$1288,Italy,Festo,servo_motor.jpg
+495,Encoder,ABB-7431,$847,USA,ABB,encoder.jpg
+496,Valve,BOS-5268,$876,Germany,Bosch,valve.jpg
+497,Sensor,MIT-3884,$487,Italy,Mitsubishi,sensor.jpg
+498,Valve,OMR-9551,$1500,South Korea,Omron,valve.jpg
+499,PLC Controller,ABB-3070,$301,USA,ABB,plc_controller.jpg
+500,Sensor,SCH-5155,$1342,Germany,Schneider,sensor.jpg
+501,Sensor,MIT-1459,$141,Germany,Mitsubishi,sensor.jpg
+502,Cutting Blade,ABB-5462,$891,India,ABB,cutting_blade.jpg
+503,Conveyor Belt,SIE-2781,$654,South Korea,Siemens,conveyor_belt.jpg
+504,Conveyor Belt,ABB-9148,$811,Italy,ABB,conveyor_belt.jpg
+505,Sensor,SCH-6595,$171,Japan,Schneider,sensor.jpg
+506,Encoder,BOS-3384,$293,India,Bosch,encoder.jpg
+507,Valve,ABB-8819,$1396,Japan,ABB,valve.jpg
+508,Sensor,OMR-8950,$99,Japan,Omron,sensor.jpg
+509,Inverter Drive,MIT-6087,$348,India,Mitsubishi,inverter_drive.jpg
+510,Cutting Blade,BOS-9546,$1149,China,Bosch,cutting_blade.jpg
+511,PLC Controller,MIT-7046,$465,China,Mitsubishi,plc_controller.jpg
+512,Hydraulic Pump,OMR-3335,$661,Italy,Omron,hydraulic_pump.jpg
+513,Hydraulic Pump,SCH-2685,$460,China,Schneider,hydraulic_pump.jpg
+514,Hydraulic Pump,SIE-1923,$97,South Korea,Siemens,hydraulic_pump.jpg
+515,Hydraulic Pump,MIT-5321,$1262,China,Mitsubishi,hydraulic_pump.jpg
+516,Servo Motor,ABB-5707,$331,India,ABB,servo_motor.jpg
+517,Inverter Drive,ABB-8934,$383,Italy,ABB,inverter_drive.jpg
+518,HMI Display,OMR-6379,$331,Germany,Omron,hmi_display.jpg
+519,Encoder,OMR-3825,$1158,Japan,Omron,encoder.jpg
+520,PLC Controller,MIT-7422,$570,USA,Mitsubishi,plc_controller.jpg
+521,Cutting Blade,SIE-3231,$746,China,Siemens,cutting_blade.jpg
+522,Inverter Drive,SCH-6380,$672,China,Schneider,inverter_drive.jpg
+523,Servo Motor,OMR-7353,$122,China,Omron,servo_motor.jpg
+524,Sensor,MIT-7479,$171,Germany,Mitsubishi,sensor.jpg
+525,Servo Motor,SIE-4077,$316,Italy,Siemens,servo_motor.jpg
+526,Conveyor Belt,SIE-6864,$593,Germany,Siemens,conveyor_belt.jpg
+527,Servo Motor,ABB-7444,$911,Japan,ABB,servo_motor.jpg
+528,Encoder,SIE-3516,$413,Germany,Siemens,encoder.jpg
+529,Conveyor Belt,MIT-8914,$278,Germany,Mitsubishi,conveyor_belt.jpg
+530,HMI Display,ABB-1927,$928,Japan,ABB,hmi_display.jpg
+531,Servo Motor,OMR-5242,$261,Japan,Omron,servo_motor.jpg
+532,Hydraulic Pump,SCH-7929,$131,India,Schneider,hydraulic_pump.jpg
+533,Conveyor Belt,MIT-1463,$576,South Korea,Mitsubishi,conveyor_belt.jpg
+534,HMI Display,ABB-7845,$416,South Korea,ABB,hmi_display.jpg
+535,Sensor,SIE-3186,$697,Germany,Siemens,sensor.jpg
+536,Encoder,FES-7736,$314,Germany,Festo,encoder.jpg
+537,Hydraulic Pump,FES-8396,$1220,India,Festo,hydraulic_pump.jpg
+538,Hydraulic Pump,SCH-7275,$745,Italy,Schneider,hydraulic_pump.jpg
+539,HMI Display,SCH-5004,$200,China,Schneider,hmi_display.jpg
+540,Valve,MIT-1431,$1450,Italy,Mitsubishi,valve.jpg
+541,Servo Motor,SIE-2728,$95,Italy,Siemens,servo_motor.jpg
+542,Hydraulic Pump,SIE-3319,$1173,India,Siemens,hydraulic_pump.jpg
+543,Valve,MIT-6847,$301,Germany,Mitsubishi,valve.jpg
+544,PLC Controller,SIE-7644,$1214,USA,Siemens,plc_controller.jpg
+545,Encoder,OMR-7769,$229,Japan,Omron,encoder.jpg
+546,Sensor,BOS-4453,$1343,USA,Bosch,sensor.jpg
+547,Inverter Drive,FES-7187,$1036,South Korea,Festo,inverter_drive.jpg
+548,Valve,OMR-1063,$1311,Italy,Omron,valve.jpg
+549,Encoder,SIE-5200,$433,USA,Siemens,encoder.jpg
+550,Sensor,BOS-5021,$1382,Japan,Bosch,sensor.jpg
+551,Valve,FES-4361,$99,India,Festo,valve.jpg
+552,Encoder,BOS-4606,$904,India,Bosch,encoder.jpg
+553,Inverter Drive,OMR-3074,$436,USA,Omron,inverter_drive.jpg
+554,Hydraulic Pump,OMR-2463,$1336,China,Omron,hydraulic_pump.jpg
+555,Hydraulic Pump,SCH-4509,$934,Italy,Schneider,hydraulic_pump.jpg
+556,Hydraulic Pump,MIT-8625,$365,Italy,Mitsubishi,hydraulic_pump.jpg
+557,Valve,FES-1864,$171,China,Festo,valve.jpg
+558,Conveyor Belt,OMR-5957,$608,Germany,Omron,conveyor_belt.jpg
+559,Valve,SIE-1306,$804,Japan,Siemens,valve.jpg
+560,HMI Display,OMR-9212,$934,USA,Omron,hmi_display.jpg
+561,Conveyor Belt,SIE-2960,$640,Germany,Siemens,conveyor_belt.jpg
+562,Hydraulic Pump,BOS-4606,$1159,China,Bosch,hydraulic_pump.jpg
+563,Cutting Blade,BOS-8095,$904,India,Bosch,cutting_blade.jpg
+564,PLC Controller,OMR-8404,$340,India,Omron,plc_controller.jpg
+565,HMI Display,SCH-1787,$1048,Japan,Schneider,hmi_display.jpg
+566,Conveyor Belt,SIE-6827,$921,Italy,Siemens,conveyor_belt.jpg
+567,Servo Motor,BOS-5893,$743,USA,Bosch,servo_motor.jpg
+568,Valve,BOS-9746,$1334,China,Bosch,valve.jpg
+569,Conveyor Belt,BOS-5703,$115,Germany,Bosch,conveyor_belt.jpg
+570,Cutting Blade,FES-2768,$262,Japan,Festo,cutting_blade.jpg
+571,Hydraulic Pump,OMR-2881,$156,China,Omron,hydraulic_pump.jpg
+572,Servo Motor,SIE-5530,$923,South Korea,Siemens,servo_motor.jpg
+573,Cutting Blade,ABB-9491,$1340,Japan,ABB,cutting_blade.jpg
+574,HMI Display,SCH-7595,$1107,USA,Schneider,hmi_display.jpg
+575,Valve,BOS-6862,$550,Germany,Bosch,valve.jpg
+576,Servo Motor,OMR-4289,$796,USA,Omron,servo_motor.jpg
+577,Sensor,SCH-7596,$1255,China,Schneider,sensor.jpg
+578,HMI Display,MIT-2040,$1480,India,Mitsubishi,hmi_display.jpg
+579,Conveyor Belt,BOS-1780,$871,India,Bosch,conveyor_belt.jpg
+580,Conveyor Belt,SCH-5653,$1084,Italy,Schneider,conveyor_belt.jpg
+581,Inverter Drive,MIT-7024,$1211,Japan,Mitsubishi,inverter_drive.jpg
+582,Conveyor Belt,FES-4104,$123,Germany,Festo,conveyor_belt.jpg
+583,HMI Display,BOS-9859,$866,South Korea,Bosch,hmi_display.jpg
+584,Conveyor Belt,SIE-6109,$1317,India,Siemens,conveyor_belt.jpg
+585,Servo Motor,SCH-9694,$413,China,Schneider,servo_motor.jpg
+586,Hydraulic Pump,ABB-4457,$92,Germany,ABB,hydraulic_pump.jpg
+587,Cutting Blade,ABB-1036,$1218,Italy,ABB,cutting_blade.jpg
+588,PLC Controller,ABB-2489,$70,India,ABB,plc_controller.jpg
+589,Hydraulic Pump,ABB-8131,$845,China,ABB,hydraulic_pump.jpg
+590,PLC Controller,OMR-8557,$1263,USA,Omron,plc_controller.jpg
+591,Cutting Blade,OMR-9091,$861,USA,Omron,cutting_blade.jpg
+592,Valve,OMR-8580,$1421,India,Omron,valve.jpg
+593,Encoder,SCH-5263,$579,USA,Schneider,encoder.jpg
+594,Sensor,MIT-6762,$890,USA,Mitsubishi,sensor.jpg
+595,Hydraulic Pump,MIT-6071,$239,China,Mitsubishi,hydraulic_pump.jpg
+596,HMI Display,OMR-1116,$497,Italy,Omron,hmi_display.jpg
+597,Sensor,MIT-9426,$1420,Japan,Mitsubishi,sensor.jpg
+598,Inverter Drive,ABB-2535,$1001,Italy,ABB,inverter_drive.jpg
+599,Servo Motor,SIE-6823,$763,South Korea,Siemens,servo_motor.jpg
+600,Conveyor Belt,BOS-5968,$701,Germany,Bosch,conveyor_belt.jpg
+601,Encoder,ABB-2699,$1201,China,ABB,encoder.jpg
+602,HMI Display,FES-2488,$894,Japan,Festo,hmi_display.jpg
+603,PLC Controller,SIE-3000,$1185,Italy,Siemens,plc_controller.jpg
+604,Valve,MIT-6924,$1265,Italy,Mitsubishi,valve.jpg
+605,PLC Controller,FES-4050,$1487,China,Festo,plc_controller.jpg
+606,Conveyor Belt,OMR-5399,$472,Italy,Omron,conveyor_belt.jpg
+607,PLC Controller,MIT-6841,$1308,South Korea,Mitsubishi,plc_controller.jpg
+608,Inverter Drive,SIE-5396,$151,Germany,Siemens,inverter_drive.jpg
+609,Cutting Blade,BOS-8390,$660,India,Bosch,cutting_blade.jpg
+610,Cutting Blade,OMR-7485,$1074,South Korea,Omron,cutting_blade.jpg
+611,Conveyor Belt,FES-2336,$1253,Italy,Festo,conveyor_belt.jpg
+612,Cutting Blade,ABB-2942,$1418,Japan,ABB,cutting_blade.jpg
+613,Inverter Drive,MIT-5198,$335,Germany,Mitsubishi,inverter_drive.jpg
+614,Hydraulic Pump,SIE-9868,$1184,Germany,Siemens,hydraulic_pump.jpg
+615,Sensor,MIT-6992,$1167,Germany,Mitsubishi,sensor.jpg
+616,Conveyor Belt,SCH-8129,$193,Italy,Schneider,conveyor_belt.jpg
+617,HMI Display,SIE-9763,$794,Japan,Siemens,hmi_display.jpg
+618,Sensor,BOS-9456,$200,USA,Bosch,sensor.jpg
+619,Cutting Blade,SCH-8729,$1198,Japan,Schneider,cutting_blade.jpg
+620,Servo Motor,OMR-9250,$199,USA,Omron,servo_motor.jpg
+621,Hydraulic Pump,SIE-3634,$608,USA,Siemens,hydraulic_pump.jpg
+622,Sensor,FES-4633,$272,South Korea,Festo,sensor.jpg
+623,Valve,BOS-4765,$985,India,Bosch,valve.jpg
+624,Conveyor Belt,SIE-7539,$1354,Japan,Siemens,conveyor_belt.jpg
+625,Conveyor Belt,FES-7378,$820,USA,Festo,conveyor_belt.jpg
+626,Inverter Drive,OMR-4209,$495,USA,Omron,inverter_drive.jpg
+627,Encoder,MIT-1998,$936,China,Mitsubishi,encoder.jpg
+628,Servo Motor,BOS-7090,$894,China,Bosch,servo_motor.jpg
+629,Sensor,SCH-7112,$782,Germany,Schneider,sensor.jpg
+630,Sensor,SIE-4629,$1367,India,Siemens,sensor.jpg
+631,Valve,BOS-9662,$1327,USA,Bosch,valve.jpg
+632,Hydraulic Pump,FES-8612,$743,Japan,Festo,hydraulic_pump.jpg
+633,Inverter Drive,ABB-2711,$978,India,ABB,inverter_drive.jpg
+634,Inverter Drive,SIE-9029,$1410,Italy,Siemens,inverter_drive.jpg
+635,PLC Controller,BOS-7060,$1431,Italy,Bosch,plc_controller.jpg
+636,Inverter Drive,OMR-5583,$1338,Japan,Omron,inverter_drive.jpg
+637,Sensor,OMR-1036,$1354,South Korea,Omron,sensor.jpg
+638,Cutting Blade,OMR-8685,$1231,India,Omron,cutting_blade.jpg
+639,Inverter Drive,FES-1785,$472,USA,Festo,inverter_drive.jpg
+640,Servo Motor,FES-4255,$1322,USA,Festo,servo_motor.jpg
+641,PLC Controller,BOS-6320,$307,Italy,Bosch,plc_controller.jpg
+642,Inverter Drive,OMR-2736,$242,USA,Omron,inverter_drive.jpg
+643,Valve,MIT-9610,$897,Germany,Mitsubishi,valve.jpg
+644,PLC Controller,SCH-1463,$980,Japan,Schneider,plc_controller.jpg
+645,Inverter Drive,SIE-8669,$606,Italy,Siemens,inverter_drive.jpg
+646,Valve,SCH-5168,$590,Germany,Schneider,valve.jpg
+647,PLC Controller,MIT-8025,$618,USA,Mitsubishi,plc_controller.jpg
+648,Servo Motor,MIT-8231,$1227,Italy,Mitsubishi,servo_motor.jpg
+649,HMI Display,MIT-5158,$1210,Italy,Mitsubishi,hmi_display.jpg
+650,Servo Motor,MIT-1983,$1235,Japan,Mitsubishi,servo_motor.jpg
+651,Sensor,MIT-1110,$1321,Italy,Mitsubishi,sensor.jpg
+652,Encoder,BOS-5588,$797,Japan,Bosch,encoder.jpg
+653,HMI Display,BOS-4864,$897,China,Bosch,hmi_display.jpg
+654,HMI Display,ABB-4101,$884,Japan,ABB,hmi_display.jpg
+655,Conveyor Belt,BOS-9318,$186,India,Bosch,conveyor_belt.jpg
+656,Sensor,SCH-9294,$1138,India,Schneider,sensor.jpg
+657,Cutting Blade,MIT-1796,$1362,South Korea,Mitsubishi,cutting_blade.jpg
+658,Valve,ABB-4468,$839,Germany,ABB,valve.jpg
+659,Sensor,MIT-5526,$713,USA,Mitsubishi,sensor.jpg
+660,Cutting Blade,SIE-2524,$964,Italy,Siemens,cutting_blade.jpg
+661,Hydraulic Pump,FES-8735,$1061,India,Festo,hydraulic_pump.jpg
+662,Encoder,ABB-5266,$599,South Korea,ABB,encoder.jpg
+663,Servo Motor,SCH-1750,$1388,India,Schneider,servo_motor.jpg
+664,Inverter Drive,SCH-6059,$766,Germany,Schneider,inverter_drive.jpg
+665,PLC Controller,ABB-7779,$932,South Korea,ABB,plc_controller.jpg
+666,Inverter Drive,BOS-3325,$333,India,Bosch,inverter_drive.jpg
+667,Inverter Drive,ABB-2813,$189,Germany,ABB,inverter_drive.jpg
+668,Conveyor Belt,MIT-3298,$921,Japan,Mitsubishi,conveyor_belt.jpg
+669,Valve,SIE-1451,$995,South Korea,Siemens,valve.jpg
+670,Encoder,SIE-5895,$721,South Korea,Siemens,encoder.jpg
+671,Inverter Drive,MIT-3639,$464,China,Mitsubishi,inverter_drive.jpg
+672,Valve,FES-4594,$826,China,Festo,valve.jpg
+673,Hydraulic Pump,OMR-7785,$1126,Japan,Omron,hydraulic_pump.jpg
+674,Sensor,SCH-5634,$1418,Italy,Schneider,sensor.jpg
+675,Sensor,SIE-8438,$583,USA,Siemens,sensor.jpg
+676,Inverter Drive,OMR-5956,$1206,USA,Omron,inverter_drive.jpg
+677,Inverter Drive,ABB-6151,$786,India,ABB,inverter_drive.jpg
+678,Valve,SIE-6389,$562,China,Siemens,valve.jpg
+679,Hydraulic Pump,FES-8624,$510,Italy,Festo,hydraulic_pump.jpg
+680,HMI Display,OMR-4383,$526,China,Omron,hmi_display.jpg
+681,Servo Motor,MIT-6217,$849,China,Mitsubishi,servo_motor.jpg
+682,Servo Motor,SIE-5881,$845,South Korea,Siemens,servo_motor.jpg
+683,Servo Motor,SIE-8841,$676,Germany,Siemens,servo_motor.jpg
+684,Encoder,FES-1441,$865,China,Festo,encoder.jpg
+685,Cutting Blade,MIT-6569,$510,India,Mitsubishi,cutting_blade.jpg
+686,Inverter Drive,ABB-3904,$1147,Germany,ABB,inverter_drive.jpg
+687,HMI Display,BOS-9990,$997,South Korea,Bosch,hmi_display.jpg
+688,Sensor,OMR-4025,$1079,South Korea,Omron,sensor.jpg
+689,Cutting Blade,BOS-9083,$164,South Korea,Bosch,cutting_blade.jpg
+690,Hydraulic Pump,ABB-6775,$1114,Germany,ABB,hydraulic_pump.jpg
+691,Sensor,FES-7934,$957,South Korea,Festo,sensor.jpg
+692,Servo Motor,ABB-1414,$1438,India,ABB,servo_motor.jpg
+693,PLC Controller,OMR-2339,$1269,South Korea,Omron,plc_controller.jpg
+694,Servo Motor,MIT-2869,$294,China,Mitsubishi,servo_motor.jpg
+695,HMI Display,OMR-8032,$530,Japan,Omron,hmi_display.jpg
+696,Cutting Blade,BOS-9316,$1041,USA,Bosch,cutting_blade.jpg
+697,Sensor,BOS-4340,$1333,Italy,Bosch,sensor.jpg
+698,Hydraulic Pump,MIT-3100,$260,Japan,Mitsubishi,hydraulic_pump.jpg
+699,Inverter Drive,BOS-6073,$162,Japan,Bosch,inverter_drive.jpg
+700,Valve,OMR-6649,$911,China,Omron,valve.jpg
+701,Inverter Drive,OMR-7522,$159,Germany,Omron,inverter_drive.jpg
+702,HMI Display,BOS-6131,$463,India,Bosch,hmi_display.jpg
+703,Conveyor Belt,ABB-1006,$1338,South Korea,ABB,conveyor_belt.jpg
+704,Conveyor Belt,ABB-4400,$201,South Korea,ABB,conveyor_belt.jpg
+705,PLC Controller,ABB-9352,$563,USA,ABB,plc_controller.jpg
+706,Hydraulic Pump,FES-5207,$1259,China,Festo,hydraulic_pump.jpg
+707,Cutting Blade,SCH-8527,$1340,Japan,Schneider,cutting_blade.jpg
+708,Valve,ABB-8169,$67,Germany,ABB,valve.jpg
+709,HMI Display,SCH-4708,$635,Japan,Schneider,hmi_display.jpg
+710,Sensor,BOS-3603,$727,Italy,Bosch,sensor.jpg
+711,Valve,ABB-3378,$1027,Japan,ABB,valve.jpg
+712,Valve,SIE-3213,$660,USA,Siemens,valve.jpg
+713,Conveyor Belt,BOS-8017,$487,China,Bosch,conveyor_belt.jpg
+714,Valve,OMR-2614,$927,USA,Omron,valve.jpg
+715,Inverter Drive,SCH-7154,$936,China,Schneider,inverter_drive.jpg
+716,Sensor,SIE-5814,$349,Italy,Siemens,sensor.jpg
+717,HMI Display,FES-8183,$248,Japan,Festo,hmi_display.jpg
+718,HMI Display,SIE-2184,$730,USA,Siemens,hmi_display.jpg
+719,PLC Controller,FES-2822,$737,Germany,Festo,plc_controller.jpg
+720,Encoder,OMR-3542,$609,Italy,Omron,encoder.jpg
+721,Hydraulic Pump,SCH-2055,$564,Italy,Schneider,hydraulic_pump.jpg
+722,Hydraulic Pump,BOS-9898,$1103,India,Bosch,hydraulic_pump.jpg
+723,Servo Motor,SIE-2279,$850,Germany,Siemens,servo_motor.jpg
+724,Inverter Drive,ABB-1773,$913,Japan,ABB,inverter_drive.jpg
+725,HMI Display,BOS-2199,$480,Germany,Bosch,hmi_display.jpg
+726,Cutting Blade,ABB-4300,$1115,South Korea,ABB,cutting_blade.jpg
+727,Encoder,BOS-9677,$1100,Italy,Bosch,encoder.jpg
+728,Valve,SCH-1451,$584,Italy,Schneider,valve.jpg
+729,Valve,BOS-1778,$155,India,Bosch,valve.jpg
+730,Encoder,MIT-5409,$168,USA,Mitsubishi,encoder.jpg
+731,HMI Display,OMR-6841,$1177,India,Omron,hmi_display.jpg
+732,HMI Display,ABB-6628,$771,South Korea,ABB,hmi_display.jpg
+733,Servo Motor,ABB-9911,$942,USA,ABB,servo_motor.jpg
+734,Valve,ABB-3349,$960,India,ABB,valve.jpg
+735,Inverter Drive,FES-2973,$1019,Japan,Festo,inverter_drive.jpg
+736,Cutting Blade,BOS-4260,$729,USA,Bosch,cutting_blade.jpg
+737,Hydraulic Pump,SIE-6735,$1202,USA,Siemens,hydraulic_pump.jpg
+738,Cutting Blade,SIE-1750,$1236,Japan,Siemens,cutting_blade.jpg
+739,Sensor,FES-8424,$244,South Korea,Festo,sensor.jpg
+740,PLC Controller,OMR-5372,$371,USA,Omron,plc_controller.jpg
+741,Conveyor Belt,MIT-9552,$1333,China,Mitsubishi,conveyor_belt.jpg
+742,Inverter Drive,MIT-4447,$1303,China,Mitsubishi,inverter_drive.jpg
+743,Encoder,BOS-7526,$911,Italy,Bosch,encoder.jpg
+744,Inverter Drive,SIE-7577,$1450,China,Siemens,inverter_drive.jpg
+745,Servo Motor,FES-7353,$933,Italy,Festo,servo_motor.jpg
+746,PLC Controller,OMR-9618,$744,Germany,Omron,plc_controller.jpg
+747,HMI Display,SCH-5057,$1278,China,Schneider,hmi_display.jpg
+748,Encoder,OMR-8039,$380,Japan,Omron,encoder.jpg
+749,PLC Controller,ABB-8747,$801,Germany,ABB,plc_controller.jpg
+750,Conveyor Belt,SIE-9195,$1068,Italy,Siemens,conveyor_belt.jpg
+751,Sensor,MIT-3958,$1308,China,Mitsubishi,sensor.jpg
+752,Servo Motor,BOS-1305,$236,Japan,Bosch,servo_motor.jpg
+753,Cutting Blade,SIE-3333,$251,Germany,Siemens,cutting_blade.jpg
+754,Conveyor Belt,FES-4465,$113,India,Festo,conveyor_belt.jpg
+755,Hydraulic Pump,SIE-9017,$1064,Japan,Siemens,hydraulic_pump.jpg
+756,Encoder,SIE-2214,$927,Japan,Siemens,encoder.jpg
+757,Cutting Blade,ABB-1588,$1453,Germany,ABB,cutting_blade.jpg
+758,PLC Controller,SIE-4337,$690,Germany,Siemens,plc_controller.jpg
+759,Conveyor Belt,FES-7954,$923,Italy,Festo,conveyor_belt.jpg
+760,Inverter Drive,SCH-6861,$379,China,Schneider,inverter_drive.jpg
+761,Encoder,MIT-7262,$1361,South Korea,Mitsubishi,encoder.jpg
+762,Cutting Blade,SIE-3585,$906,Japan,Siemens,cutting_blade.jpg
+763,Sensor,ABB-6868,$1320,China,ABB,sensor.jpg
+764,HMI Display,BOS-4427,$1225,China,Bosch,hmi_display.jpg
+765,Valve,OMR-2697,$1119,Germany,Omron,valve.jpg
+766,Servo Motor,OMR-1791,$331,India,Omron,servo_motor.jpg
+767,PLC Controller,SIE-6857,$1194,India,Siemens,plc_controller.jpg
+768,Inverter Drive,ABB-7753,$591,China,ABB,inverter_drive.jpg
+769,PLC Controller,SIE-8748,$779,Germany,Siemens,plc_controller.jpg
+770,Sensor,SCH-9944,$1141,South Korea,Schneider,sensor.jpg
+771,Encoder,ABB-3383,$399,China,ABB,encoder.jpg
+772,PLC Controller,SIE-4830,$1278,Italy,Siemens,plc_controller.jpg
+773,Valve,MIT-5542,$438,Italy,Mitsubishi,valve.jpg
+774,Inverter Drive,BOS-3008,$1179,Italy,Bosch,inverter_drive.jpg
+775,Valve,MIT-1241,$258,Italy,Mitsubishi,valve.jpg
+776,HMI Display,SCH-4965,$810,Germany,Schneider,hmi_display.jpg
+777,Inverter Drive,BOS-8254,$1184,India,Bosch,inverter_drive.jpg
+778,Servo Motor,ABB-8791,$721,Italy,ABB,servo_motor.jpg
+779,Valve,OMR-5542,$702,USA,Omron,valve.jpg
+780,Valve,SCH-4844,$183,China,Schneider,valve.jpg
+781,PLC Controller,OMR-6188,$845,China,Omron,plc_controller.jpg
+782,HMI Display,MIT-8810,$663,China,Mitsubishi,hmi_display.jpg
+783,Valve,OMR-7114,$986,China,Omron,valve.jpg
+784,Conveyor Belt,ABB-2370,$1427,Italy,ABB,conveyor_belt.jpg
+785,Sensor,SCH-4872,$1447,India,Schneider,sensor.jpg
+786,Sensor,BOS-6199,$268,China,Bosch,sensor.jpg
+787,Inverter Drive,SCH-2435,$1041,South Korea,Schneider,inverter_drive.jpg
+788,PLC Controller,SIE-6876,$1264,USA,Siemens,plc_controller.jpg
+789,Servo Motor,ABB-9581,$1254,India,ABB,servo_motor.jpg
+790,Valve,SIE-1306,$577,Germany,Siemens,valve.jpg
+791,Servo Motor,MIT-2699,$242,Japan,Mitsubishi,servo_motor.jpg
+792,Cutting Blade,OMR-4772,$602,USA,Omron,cutting_blade.jpg
+793,Encoder,ABB-7794,$342,Germany,ABB,encoder.jpg
+794,PLC Controller,MIT-4983,$1260,China,Mitsubishi,plc_controller.jpg
+795,Inverter Drive,MIT-9513,$689,USA,Mitsubishi,inverter_drive.jpg
+796,Sensor,SIE-2875,$1068,China,Siemens,sensor.jpg
+797,Valve,OMR-9993,$283,China,Omron,valve.jpg
+798,Cutting Blade,MIT-8098,$879,China,Mitsubishi,cutting_blade.jpg
+799,Conveyor Belt,SIE-9537,$1373,Germany,Siemens,conveyor_belt.jpg
+800,Servo Motor,MIT-3803,$133,Italy,Mitsubishi,servo_motor.jpg
+801,Hydraulic Pump,BOS-8497,$1327,USA,Bosch,hydraulic_pump.jpg
+802,Sensor,SCH-8219,$512,South Korea,Schneider,sensor.jpg
+803,PLC Controller,SCH-9142,$1130,India,Schneider,plc_controller.jpg
+804,Sensor,OMR-8210,$713,India,Omron,sensor.jpg
+805,HMI Display,SIE-5961,$148,India,Siemens,hmi_display.jpg
+806,Inverter Drive,FES-3487,$1080,India,Festo,inverter_drive.jpg
+807,Hydraulic Pump,SIE-8211,$701,Italy,Siemens,hydraulic_pump.jpg
+808,Servo Motor,BOS-6621,$462,China,Bosch,servo_motor.jpg
+809,Hydraulic Pump,FES-9733,$1102,South Korea,Festo,hydraulic_pump.jpg
+810,Servo Motor,FES-6481,$917,Germany,Festo,servo_motor.jpg
+811,Sensor,OMR-1355,$854,South Korea,Omron,sensor.jpg
+812,PLC Controller,FES-3441,$66,India,Festo,plc_controller.jpg
+813,HMI Display,MIT-4063,$926,Germany,Mitsubishi,hmi_display.jpg
+814,HMI Display,SIE-3852,$1121,Italy,Siemens,hmi_display.jpg
+815,Cutting Blade,MIT-2614,$958,Japan,Mitsubishi,cutting_blade.jpg
+816,Sensor,FES-7362,$131,South Korea,Festo,sensor.jpg
+817,Conveyor Belt,ABB-4052,$590,South Korea,ABB,conveyor_belt.jpg
+818,Valve,MIT-9920,$806,South Korea,Mitsubishi,valve.jpg
+819,PLC Controller,MIT-7146,$1282,USA,Mitsubishi,plc_controller.jpg
+820,Encoder,OMR-6126,$1214,South Korea,Omron,encoder.jpg
+821,Conveyor Belt,SCH-7520,$1049,China,Schneider,conveyor_belt.jpg
+822,PLC Controller,SIE-8825,$430,Germany,Siemens,plc_controller.jpg
+823,Servo Motor,BOS-5680,$1317,USA,Bosch,servo_motor.jpg
+824,Sensor,ABB-9627,$57,Japan,ABB,sensor.jpg
+825,Sensor,SIE-6501,$1470,South Korea,Siemens,sensor.jpg
+826,Inverter Drive,ABB-2267,$77,India,ABB,inverter_drive.jpg
+827,Encoder,MIT-4339,$1365,USA,Mitsubishi,encoder.jpg
+828,Hydraulic Pump,SCH-4016,$1154,Germany,Schneider,hydraulic_pump.jpg
+829,Hydraulic Pump,OMR-6623,$916,India,Omron,hydraulic_pump.jpg
+830,Cutting Blade,OMR-3068,$434,Japan,Omron,cutting_blade.jpg
+831,PLC Controller,BOS-8922,$821,China,Bosch,plc_controller.jpg
+832,HMI Display,OMR-1471,$635,India,Omron,hmi_display.jpg
+833,Inverter Drive,BOS-3782,$417,Italy,Bosch,inverter_drive.jpg
+834,Valve,MIT-9753,$117,South Korea,Mitsubishi,valve.jpg
+835,PLC Controller,MIT-9441,$882,India,Mitsubishi,plc_controller.jpg
+836,Encoder,FES-8370,$429,South Korea,Festo,encoder.jpg
+837,HMI Display,OMR-4749,$631,USA,Omron,hmi_display.jpg
+838,Cutting Blade,SCH-6202,$1390,India,Schneider,cutting_blade.jpg
+839,PLC Controller,MIT-9084,$553,South Korea,Mitsubishi,plc_controller.jpg
+840,Sensor,SIE-3610,$1081,South Korea,Siemens,sensor.jpg
+841,Sensor,ABB-7284,$918,South Korea,ABB,sensor.jpg
+842,Hydraulic Pump,SCH-3603,$816,South Korea,Schneider,hydraulic_pump.jpg
+843,PLC Controller,FES-6142,$441,Germany,Festo,plc_controller.jpg
+844,PLC Controller,ABB-7217,$462,Japan,ABB,plc_controller.jpg
+845,Inverter Drive,BOS-2511,$559,Italy,Bosch,inverter_drive.jpg
+846,Valve,SCH-3041,$1376,India,Schneider,valve.jpg
+847,Cutting Blade,BOS-3899,$58,Japan,Bosch,cutting_blade.jpg
+848,Sensor,OMR-9180,$211,USA,Omron,sensor.jpg
+849,HMI Display,SIE-6120,$577,Italy,Siemens,hmi_display.jpg
+850,Hydraulic Pump,BOS-8984,$230,Japan,Bosch,hydraulic_pump.jpg
+851,HMI Display,MIT-3094,$70,South Korea,Mitsubishi,hmi_display.jpg
+852,Servo Motor,SCH-2723,$183,Italy,Schneider,servo_motor.jpg
+853,Hydraulic Pump,MIT-4453,$701,India,Mitsubishi,hydraulic_pump.jpg
+854,PLC Controller,SCH-1337,$1134,Japan,Schneider,plc_controller.jpg
+855,Valve,SCH-3477,$673,India,Schneider,valve.jpg
+856,PLC Controller,BOS-1167,$1397,Germany,Bosch,plc_controller.jpg
+857,Valve,OMR-9584,$1195,Germany,Omron,valve.jpg
+858,Valve,SIE-8336,$265,China,Siemens,valve.jpg
+859,Hydraulic Pump,BOS-8706,$657,USA,Bosch,hydraulic_pump.jpg
+860,Sensor,MIT-9093,$485,Italy,Mitsubishi,sensor.jpg
+861,HMI Display,FES-9882,$760,Italy,Festo,hmi_display.jpg
+862,HMI Display,ABB-6671,$1111,USA,ABB,hmi_display.jpg
+863,Cutting Blade,MIT-5069,$1243,India,Mitsubishi,cutting_blade.jpg
+864,Cutting Blade,BOS-5371,$901,Japan,Bosch,cutting_blade.jpg
+865,HMI Display,BOS-6944,$971,Italy,Bosch,hmi_display.jpg
+866,Inverter Drive,OMR-1175,$1049,India,Omron,inverter_drive.jpg
+867,Cutting Blade,FES-6634,$800,USA,Festo,cutting_blade.jpg
+868,Encoder,MIT-8341,$1445,Japan,Mitsubishi,encoder.jpg
+869,Conveyor Belt,SCH-3681,$658,USA,Schneider,conveyor_belt.jpg
+870,Hydraulic Pump,SIE-4551,$816,Germany,Siemens,hydraulic_pump.jpg
+871,Hydraulic Pump,MIT-4213,$1028,Germany,Mitsubishi,hydraulic_pump.jpg
+872,Cutting Blade,MIT-5554,$859,Italy,Mitsubishi,cutting_blade.jpg
+873,Servo Motor,MIT-4278,$699,South Korea,Mitsubishi,servo_motor.jpg
+874,HMI Display,SCH-9240,$429,USA,Schneider,hmi_display.jpg
+875,Hydraulic Pump,MIT-7674,$1313,USA,Mitsubishi,hydraulic_pump.jpg
+876,Sensor,SCH-1615,$1049,USA,Schneider,sensor.jpg
+877,Conveyor Belt,FES-2345,$1146,Japan,Festo,conveyor_belt.jpg
+878,Conveyor Belt,BOS-7504,$1080,Italy,Bosch,conveyor_belt.jpg
+879,Hydraulic Pump,ABB-4808,$958,USA,ABB,hydraulic_pump.jpg
+880,Cutting Blade,OMR-4210,$119,Japan,Omron,cutting_blade.jpg
+881,HMI Display,OMR-8912,$1205,China,Omron,hmi_display.jpg
+882,Cutting Blade,OMR-8735,$500,Italy,Omron,cutting_blade.jpg
+883,Encoder,SIE-2819,$645,USA,Siemens,encoder.jpg
+884,Inverter Drive,BOS-8059,$1055,Germany,Bosch,inverter_drive.jpg
+885,Conveyor Belt,BOS-4839,$789,India,Bosch,conveyor_belt.jpg
+886,HMI Display,ABB-7521,$175,China,ABB,hmi_display.jpg
+887,Hydraulic Pump,BOS-1687,$669,Italy,Bosch,hydraulic_pump.jpg
+888,Hydraulic Pump,OMR-8938,$1495,Germany,Omron,hydraulic_pump.jpg
+889,Servo Motor,MIT-6789,$739,India,Mitsubishi,servo_motor.jpg
+890,Hydraulic Pump,MIT-1069,$651,Italy,Mitsubishi,hydraulic_pump.jpg
+891,HMI Display,BOS-1091,$1147,USA,Bosch,hmi_display.jpg
+892,Inverter Drive,BOS-3502,$305,Japan,Bosch,inverter_drive.jpg
+893,Sensor,SCH-2827,$1309,USA,Schneider,sensor.jpg
+894,Servo Motor,FES-7685,$604,Germany,Festo,servo_motor.jpg
+895,Hydraulic Pump,BOS-7965,$330,USA,Bosch,hydraulic_pump.jpg
+896,Conveyor Belt,FES-4113,$1186,Japan,Festo,conveyor_belt.jpg
+897,Cutting Blade,OMR-3418,$344,Germany,Omron,cutting_blade.jpg
+898,HMI Display,OMR-1827,$1356,Japan,Omron,hmi_display.jpg
+899,Hydraulic Pump,SIE-6136,$805,China,Siemens,hydraulic_pump.jpg
+900,Encoder,MIT-3061,$118,China,Mitsubishi,encoder.jpg
+901,Servo Motor,ABB-8652,$246,India,ABB,servo_motor.jpg
+902,Sensor,ABB-5341,$1022,Italy,ABB,sensor.jpg
+903,Sensor,ABB-4676,$56,South Korea,ABB,sensor.jpg
+904,Conveyor Belt,MIT-5488,$105,USA,Mitsubishi,conveyor_belt.jpg
+905,Cutting Blade,BOS-1844,$1123,Japan,Bosch,cutting_blade.jpg
+906,Encoder,BOS-5122,$457,Japan,Bosch,encoder.jpg
+907,Servo Motor,MIT-7921,$951,India,Mitsubishi,servo_motor.jpg
+908,HMI Display,ABB-8972,$133,South Korea,ABB,hmi_display.jpg
+909,Valve,OMR-8093,$447,USA,Omron,valve.jpg
+910,Valve,SCH-2872,$694,China,Schneider,valve.jpg
+911,Cutting Blade,FES-9532,$639,Germany,Festo,cutting_blade.jpg
+912,Inverter Drive,MIT-9084,$844,India,Mitsubishi,inverter_drive.jpg
+913,Hydraulic Pump,BOS-1822,$1233,India,Bosch,hydraulic_pump.jpg
+914,Hydraulic Pump,ABB-7937,$458,India,ABB,hydraulic_pump.jpg
+915,Hydraulic Pump,SIE-6276,$703,USA,Siemens,hydraulic_pump.jpg
+916,Inverter Drive,BOS-2427,$1076,India,Bosch,inverter_drive.jpg
+917,Valve,SIE-3226,$414,Japan,Siemens,valve.jpg
+918,HMI Display,ABB-4245,$80,Italy,ABB,hmi_display.jpg
+919,Conveyor Belt,ABB-8713,$1404,China,ABB,conveyor_belt.jpg
+920,PLC Controller,OMR-7769,$426,South Korea,Omron,plc_controller.jpg
+921,PLC Controller,SCH-1683,$1028,Japan,Schneider,plc_controller.jpg
+922,Conveyor Belt,OMR-7796,$1401,Germany,Omron,conveyor_belt.jpg
+923,Cutting Blade,FES-9710,$1117,Germany,Festo,cutting_blade.jpg
+924,Hydraulic Pump,SIE-2333,$412,India,Siemens,hydraulic_pump.jpg
+925,HMI Display,SIE-5678,$1429,China,Siemens,hmi_display.jpg
+926,HMI Display,FES-9727,$516,South Korea,Festo,hmi_display.jpg
+927,Servo Motor,SIE-5417,$91,China,Siemens,servo_motor.jpg
+928,Valve,ABB-8326,$1310,USA,ABB,valve.jpg
+929,Conveyor Belt,SIE-5201,$637,Japan,Siemens,conveyor_belt.jpg
+930,Inverter Drive,ABB-7189,$656,Germany,ABB,inverter_drive.jpg
+931,PLC Controller,BOS-3375,$930,India,Bosch,plc_controller.jpg
+932,Servo Motor,SCH-7099,$76,India,Schneider,servo_motor.jpg
+933,Encoder,ABB-7015,$248,Japan,ABB,encoder.jpg
+934,Cutting Blade,MIT-4763,$996,Japan,Mitsubishi,cutting_blade.jpg
+935,Valve,SCH-2914,$1055,Japan,Schneider,valve.jpg
+936,HMI Display,FES-4355,$457,India,Festo,hmi_display.jpg
+937,Servo Motor,BOS-2932,$299,Japan,Bosch,servo_motor.jpg
+938,PLC Controller,SIE-1696,$1374,South Korea,Siemens,plc_controller.jpg
+939,Encoder,ABB-3923,$104,India,ABB,encoder.jpg
+940,HMI Display,SCH-3507,$998,South Korea,Schneider,hmi_display.jpg
+941,Encoder,SIE-9743,$1489,USA,Siemens,encoder.jpg
+942,Encoder,SIE-4894,$537,India,Siemens,encoder.jpg
+943,Encoder,FES-1206,$1177,Japan,Festo,encoder.jpg
+944,Hydraulic Pump,BOS-9574,$1264,Japan,Bosch,hydraulic_pump.jpg
+945,PLC Controller,FES-2148,$1162,USA,Festo,plc_controller.jpg
+946,Inverter Drive,SIE-9653,$950,South Korea,Siemens,inverter_drive.jpg
+947,Conveyor Belt,OMR-9949,$736,USA,Omron,conveyor_belt.jpg
+948,Hydraulic Pump,ABB-9437,$594,Japan,ABB,hydraulic_pump.jpg
+949,Hydraulic Pump,MIT-4085,$1031,Italy,Mitsubishi,hydraulic_pump.jpg
+950,Inverter Drive,BOS-9493,$80,India,Bosch,inverter_drive.jpg
+951,Inverter Drive,FES-8110,$1389,Japan,Festo,inverter_drive.jpg
+952,Servo Motor,SCH-7760,$1314,India,Schneider,servo_motor.jpg
+953,PLC Controller,OMR-1134,$413,India,Omron,plc_controller.jpg
+954,Servo Motor,BOS-1020,$223,Japan,Bosch,servo_motor.jpg
+955,Inverter Drive,OMR-5132,$799,South Korea,Omron,inverter_drive.jpg
+956,Conveyor Belt,OMR-6698,$1344,Germany,Omron,conveyor_belt.jpg
+957,Hydraulic Pump,ABB-1644,$1329,South Korea,ABB,hydraulic_pump.jpg
+958,Encoder,ABB-9842,$608,Italy,ABB,encoder.jpg
+959,Valve,SCH-7595,$1188,South Korea,Schneider,valve.jpg
+960,Inverter Drive,OMR-4385,$984,China,Omron,inverter_drive.jpg
+961,Sensor,ABB-7049,$308,South Korea,ABB,sensor.jpg
+962,PLC Controller,OMR-6170,$902,South Korea,Omron,plc_controller.jpg
+963,Hydraulic Pump,SCH-4963,$396,China,Schneider,hydraulic_pump.jpg
+964,Encoder,SCH-9616,$793,South Korea,Schneider,encoder.jpg
+965,Hydraulic Pump,SIE-5467,$56,India,Siemens,hydraulic_pump.jpg
+966,Hydraulic Pump,SIE-5643,$914,India,Siemens,hydraulic_pump.jpg
+967,Sensor,SCH-8245,$1373,Italy,Schneider,sensor.jpg
+968,Hydraulic Pump,SIE-5251,$1455,USA,Siemens,hydraulic_pump.jpg
+969,Servo Motor,SCH-2926,$100,South Korea,Schneider,servo_motor.jpg
+970,Encoder,ABB-2530,$631,Japan,ABB,encoder.jpg
+971,Hydraulic Pump,BOS-8331,$1032,Italy,Bosch,hydraulic_pump.jpg
+972,Inverter Drive,SCH-5408,$753,India,Schneider,inverter_drive.jpg
+973,Sensor,OMR-3435,$254,Japan,Omron,sensor.jpg
+974,Conveyor Belt,BOS-6050,$983,USA,Bosch,conveyor_belt.jpg
+975,Sensor,SIE-6562,$104,USA,Siemens,sensor.jpg
+976,Inverter Drive,MIT-6105,$585,USA,Mitsubishi,inverter_drive.jpg
+977,HMI Display,FES-4182,$1078,Italy,Festo,hmi_display.jpg
+978,HMI Display,SIE-7832,$589,USA,Siemens,hmi_display.jpg
+979,Encoder,OMR-2835,$527,India,Omron,encoder.jpg
+980,PLC Controller,MIT-8182,$928,China,Mitsubishi,plc_controller.jpg
+981,Inverter Drive,FES-3993,$56,China,Festo,inverter_drive.jpg
+982,PLC Controller,FES-8839,$849,Japan,Festo,plc_controller.jpg
+983,Encoder,ABB-1622,$831,USA,ABB,encoder.jpg
+984,PLC Controller,MIT-1295,$1370,India,Mitsubishi,plc_controller.jpg
+985,Sensor,MIT-4452,$518,USA,Mitsubishi,sensor.jpg
+986,Conveyor Belt,SCH-2100,$1329,USA,Schneider,conveyor_belt.jpg
+987,PLC Controller,OMR-3730,$180,India,Omron,plc_controller.jpg
+988,HMI Display,OMR-9547,$908,India,Omron,hmi_display.jpg
+989,Valve,ABB-3092,$855,India,ABB,valve.jpg
+990,Encoder,FES-1459,$1214,USA,Festo,encoder.jpg
+991,Inverter Drive,SCH-4406,$910,China,Schneider,inverter_drive.jpg
+992,Hydraulic Pump,ABB-3505,$535,India,ABB,hydraulic_pump.jpg
+993,Hydraulic Pump,BOS-9950,$1328,USA,Bosch,hydraulic_pump.jpg
+994,Inverter Drive,FES-4602,$1148,Italy,Festo,inverter_drive.jpg
+995,Inverter Drive,MIT-8737,$942,South Korea,Mitsubishi,inverter_drive.jpg
+996,Hydraulic Pump,BOS-5828,$1084,Japan,Bosch,hydraulic_pump.jpg
+997,Encoder,ABB-5416,$532,Japan,ABB,encoder.jpg
+998,Valve,FES-3667,$144,India,Festo,valve.jpg
+999,Sensor,OMR-2640,$1337,USA,Omron,sensor.jpg
+1000,Sensor,SCH-5596,$1160,Japan,Schneider,sensor.jpg
